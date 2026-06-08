@@ -1,5 +1,6 @@
 # Contribution Guidelines
-# My Github learning
+# Day1 My Github learning
+# Day2 Learning branches
 
 To support a new API, simply ask the Nango team to add it with fast turnaround (2-5 days) on the [community](https://nango.dev/slack).
 
